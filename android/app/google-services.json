@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "372128297501",
+    "firebase_url": "https://chatawaken.firebaseio.com",
+    "project_id": "chatawaken",
+    "storage_bucket": "chatawaken.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372128297501:android:45ec2cbfe3f20d7dc68cf4",
+        "android_client_info": {
+          "package_name": "com.example.chat_awaken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372128297501-4h8v4pl3ceo0i1vrnpf3r9qunlvdgfoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeb2Uofgyso8uNL-hWsCfQv8-tlW_WKXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372128297501-4h8v4pl3ceo0i1vrnpf3r9qunlvdgfoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "372128297501-ak4t8cff217i49j5gqt4upvoaeq4tmlo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awaken.chatAwaken"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
